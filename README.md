@@ -38,8 +38,6 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://mikey1-nuel.github.io/Capstone-project-1.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
