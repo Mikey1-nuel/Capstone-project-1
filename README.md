@@ -40,6 +40,11 @@
 
 - [Live Demo Link](https://mikey1-nuel.github.io/Capstone-project-1.github.io/)
 
+
+## 🚀 Loom Video Presentation <a name="live-demo"></a>
+
+- [Loom Video](https://www.loom.com/share/97a549fb77154b0fab453bc627e8bccf)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
